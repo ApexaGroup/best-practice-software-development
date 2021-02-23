@@ -21,4 +21,4 @@ Best practice and guideline for software development.
 
 
 Reference
-> [10 Rules for a Better SQL Schema](https://www.sisense.com/blog/better-sql-schema/)
+> ![10 Rules for a Better SQL Schema](https://www.sisense.com/blog/better-sql-schema/)
