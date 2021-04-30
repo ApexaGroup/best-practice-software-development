@@ -30,7 +30,12 @@ Best practice and guideline for software development.
 1. [Postman Beginner's Course - API Testing](https://youtu.be/VywxIQ2ZXw4)
 2. [JSON Schema validation in Postman](https://youtu.be/haDQBmQii2g)
 3. [JSON Schema validation (nested objects, arrays) in Postman - Part II](https://youtu.be/P_So0vpNJCQ)
+4. [Postman Learning Center (Postman Official Documentation)](https://learning.postman.com/)
 
 **Docker**
 1. [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook)
 2. [Understanding Docker Build Args, Environment Variables and Docker Compose Variables](https://vsupalov.com/docker-env-vars/)
+3. [Docker Official Documentation](https://docs.docker.com/)
+
+**Prisma**
+1. [Prisma Official Documentation](https://www.prisma.io/docs/)
