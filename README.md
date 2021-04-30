@@ -20,5 +20,8 @@ Best practice and guideline for software development.
 10. Don’t Over-Normalize
 
 
-Reference
+### Reference
 > [10 Rules for a Better SQL Schema](https://www.sisense.com/blog/better-sql-schema/)
+
+**Postman**
+1. [Postman Beginner's Course - API Testing](https://youtu.be/VywxIQ2ZXw4)
